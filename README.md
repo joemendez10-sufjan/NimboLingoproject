@@ -18,10 +18,12 @@ A containerized Flask API deployed on AWS using ECS Fargate and Terraform.
 ## 📸 Screenshots
 
 ### ECS Running Task
-![ECS](ecs-running.png)
+![ECS](<img width="1485" height="747" alt="new screenshot for project" src="https://github.com/user-attachments/assets/5feb37ae-efcf-473a-ac3c-f4caf60fc99d" />
+)
 
 ### Application Response
-![App](app-response.png)
+![App](app<img width="468" height="86" alt="working app photo" src="https://github.com/user-attachments/assets/8cb1441f-81ad-423b-b006-8252caaddaf8" />
+)
 
 ## 🌐 Live Demo
 Application is deployed on AWS (may be turned off to reduce cost).  
